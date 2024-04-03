@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710338006 source:c:\users\alaa\documents\cprojects\kms_per_mile\main.c
+	<stdio.h>
+	<stdlib.h>
+
