@@ -5,6 +5,7 @@ int main()
 {
     printf("Hello world!\n");
     int *ptr, i, x=125;
+
     ptr=&x;
 
     printf("The Value of X: %d\n", x);

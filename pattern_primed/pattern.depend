@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712652850 source:c:\users\alaa\documents\cprojects\pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+
