@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716460519 source:c:\users\alaa\documents\cprojects\strings_in_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

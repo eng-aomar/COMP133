@@ -27,7 +27,7 @@ void dispenseChange(float amountPaid, float amountDue, int *num200Bills, int *nu
     *num1Coins = change / 1;
 }
 
-int main() {
+int main() {/*
     float amountPaid, amountDue;
     int num200Bills, num150Bills, num50Bills, num20Bills, num10Coins, num5Coins, num2Coins, num1Coins;
 
@@ -47,6 +47,9 @@ int main() {
     printf("5 Coins: %d\n", num5Coins);
     printf("2 Coins: %d\n", num2Coins);
     printf("1 Coins: %d\n", num1Coins);
-
+*/
+int a[5]={0,-1,1};
+for (int i=0; i<5; i++)
+    printf("%d\n",a[i]);
     return 0;
 }

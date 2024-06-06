@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717065958 source:c:\users\alaa\documents\cprojects\structs_lecture\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

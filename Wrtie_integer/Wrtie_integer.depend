@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717669366 source:c:\users\alaa\documents\cprojects\wrtie_integer\main.c
+	<stdio.h>
+	<stdlib.h>
+
